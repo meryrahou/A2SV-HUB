@@ -1,7 +1,5 @@
 # A2SV Hub Repository
 
-## Description
-
 This repository contains solutions to competitive programming problems posted on the A2SV Hub.
 
 ## Usage
