@@ -2,9 +2,8 @@
 
 This repository contains solutions to competitive programming problems posted on the A2SV Hub.
 
-## Usage
+- The solutions are organized by date, with each date folder containing solutions submitted on that day.
 
-The solutions are organized by date, with each date folder containing solutions submitted on that day.
 
 ## Contributing
 
